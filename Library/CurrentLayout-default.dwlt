@@ -116,7 +116,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 392}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 117
+  controlID: 40
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -167,7 +167,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 392}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 53
+  controlID: 41
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -285,9 +285,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1094.4692, y: 72.763016, z: 201.09854}
+    m_Target: {x: 2583.4385, y: -525.6317, z: -1487.2922}
     speed: 2
-    m_Value: {x: 1094.4692, y: 72.763016, z: 201.09854}
+    m_Value: {x: 2583.4385, y: -525.6317, z: -1487.2922}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -333,13 +333,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.005302111, y: -0.98669547, z: 0.15914074, w: 0.032875936}
+    m_Target: {x: -0.009372962, y: 0.972824, z: -0.22789234, w: -0.040019147}
     speed: 2
-    m_Value: {x: 0.0048246593, y: -0.98678833, z: 0.15915571, w: 0.029915668}
+    m_Value: {x: -0.009312874, y: 0.9731595, z: -0.22643162, w: -0.040032946}
   m_Size:
-    m_Target: 25.109028
+    m_Target: 1109.2826
     speed: 2
-    m_Value: 24.027779
+    m_Value: 1161.5525
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -392,10 +392,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
+      scrollPos: {x: 0, y: 511}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: f8e2ffff
+      m_ExpandedIDs: 6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -550,20 +550,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Materials
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\33663\Documents\PROJET-CODING\Falling-into-madness
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 48440000
-    m_LastClickedID: 17480
-    m_ExpandedIDs: 00000000
+    m_SelectedIDs: b4380000
+    m_LastClickedID: 14516
+    m_ExpandedIDs: 00000000ae380000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -591,7 +591,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -618,7 +618,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000d83c00001835000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -643,7 +643,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 166}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 110
